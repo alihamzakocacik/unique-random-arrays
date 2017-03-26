@@ -1,6 +1,6 @@
 {
   "name": "untitled14",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "get a random name array",
   "main": "src/index.js",
   "scripts": {
